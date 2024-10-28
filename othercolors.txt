@@ -1,1 +1,2 @@
 texto color autor 1
+linea añadida por autor 1
